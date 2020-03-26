@@ -33,7 +33,7 @@
     <a href="https://github.com/adamclasic/Bubble-Sort"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://repl.it/@AlexandruBangau/bubblesort">View Demo</a>
+    <a href="https://repl.it/Adamall/bubblesort">View Demo</a>
     ·
     <a href="https://github.com/adamclasic/Bubble-Sort/issues">Report Bug</a>
     ·
@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://repl.it/@Adamclasic/bubblesort)
+[![Product Name Screen Shot][product-screenshot]](https://repl.it/@Adamall/bubblesort)
 
 This is the first project of the Microverse Ruby Module
 
@@ -85,7 +85,7 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it working [here](https://repl.it/@AlexandruBangau/bubblesort)
+You can see it working [here](https://repl.it/@Adamall/bubblesort)
 
 <!-- CONTACT -->
 ## Contributors
