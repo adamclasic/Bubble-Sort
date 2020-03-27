@@ -33,10 +33,11 @@
     <a href="https://github.com/adamclasic/Bubble-Sort"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+
     <a href="https://repl.it/Adamall/bubblesort">View Demo</a>
-    ·
+
     <a href="https://github.com/adamclasic/Bubble-Sort/issues">Report Bug</a>
-    ·
+
     <a href="https://github.com/adamclasic/Bubble-Sort/issues">Request Feature</a>
   </p>
 </p>
