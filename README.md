@@ -92,7 +92,7 @@ You can see it working [here](https://repl.it/@Adamall/bubblesort)
 ## Contributors
 
 
-👤 **Alexandru Bangau**
+👤 **Abderrahmane Adam Allalou**
 
 - LinkedIn: [Abderrahmane Adam Allalou](https://www.linkedin.com/in/abderrahmane-allalou/)
 - GitHub: [@adamclasic](https://github.com/adamclasic)
